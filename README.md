@@ -1,5 +1,5 @@
 # Proyecto-Bimestral-IB
-Proyecto desarrollado en C# con Windows Forms como parte del Proyecto Bimestral de la asignatura de IB.
+Proyecto desarrollado en C# con Windows Forms como parte del Proyecto Bimestral.
 
 El sistema simula una red social básica donde los usuarios pueden:
 
